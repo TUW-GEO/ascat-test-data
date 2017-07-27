@@ -20,5 +20,3 @@
 
 * H108 Metop ASCAT Surface Soil Moisture CDR2014-EXT
 * H110 Metop ASCAT Surface Soil Moisture CDR2015-EXT
-
-
